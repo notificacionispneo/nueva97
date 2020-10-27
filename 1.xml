@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Discovery Kids (México)">
+    <display-name lang="es">Canal Discovery Kids (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201027002500 -0600" stop="20201027005000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20201027005000 -0600" stop="20201027011500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20201027011500 -0600" stop="20201027014000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201027014000 -0600" stop="20201027020400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201027020400 -0600" stop="20201027022800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201027022800 -0600" stop="20201027025200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201027025200 -0600" stop="20201027031400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201027031400 -0600" stop="20201027033800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
+  <programme start="20201027033800 -0600" stop="20201027040200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Hi-5</title>
+  </programme>
+  <programme start="20201027040200 -0600" stop="20201027042600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20201027042600 -0600" stop="20201027045000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Aventuras con los Kratt</title>
+  </programme>
+  <programme start="20201027045000 -0600" stop="20201027051200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20201027051200 -0600" stop="20201027053600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20201027053600 -0600" stop="20201027060000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Miss Moon</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027071500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20201027071500 -0600" stop="20201027074000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027074000 -0600" stop="20201027080300 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027080300 -0600" stop="20201027083400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Esme y Roy</title>
+  </programme>
+  <programme start="20201027083400 -0600" stop="20201027090100 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20201027090100 -0600" stop="20201027092700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027092700 -0600" stop="20201027095300 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027095300 -0600" stop="20201027101600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027101600 -0600" stop="20201027104600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027104600 -0600" stop="20201027113400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa Las botas doradas</title>
+  </programme>
+  <programme start="20201027113400 -0600" stop="20201027115600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027115600 -0600" stop="20201027121800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027121800 -0600" stop="20201027124400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027124400 -0600" stop="20201027134400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027134400 -0600" stop="20201027141000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">¡Agente Binky al rescate</title>
+  </programme>
+  <programme start="20201027141000 -0600" stop="20201027142500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20201027142500 -0600" stop="20201027144700 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027144700 -0600" stop="20201027151200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027151200 -0600" stop="20201027153800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027153800 -0600" stop="20201027160100 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027160100 -0600" stop="20201027162800 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027162800 -0600" stop="20201027165500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027165500 -0600" stop="20201027174300 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027174300 -0600" stop="20201027181000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20201027181000 -0600" stop="20201027183600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027183600 -0600" stop="20201027191200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">¡Agente binky al rescate</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20201027191200 -0600" stop="20201027201200 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Cazadores de monstruos</title>
+  </programme>
+  <programme start="20201027201200 -0600" stop="20201027203900 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027203900 -0600" stop="20201027220400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.</desc>
+    <credits>
+      <producer>Phil Davies</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027220400 -0600" stop="20201027230600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Supermonstruos salvando</title>
+  </programme>
+  <programme start="20201027230600 -0600" stop="20201027233500 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20201027233500 -0600" stop="20201028000000 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Jorge, el curioso</title>
+  </programme>
+</tv>
