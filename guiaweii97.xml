@@ -1,0 +1,2725 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery Kids">
+    <display-name lang="es">Discovery Kids</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney Jr">
+    <display-name lang="es">Disney Jr</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="es">Boomerang</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Nat Geo Kids (Pacifico)">
+    <display-name lang="es">Canal Nat Geo Kids (Pacifico)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Nick HD">
+    <display-name lang="es">Nick HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="es">Nick Jr</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="es">Nicktoons</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="es">History HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="es">Lifetime</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="es">NatGeo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="es">NatGeo Wild</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="WOBI TV">
+    <display-name lang="es">WOBI TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Corazón">
+    <display-name lang="es">Az Corazón</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Mundo">
+    <display-name lang="es">Az Mundo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="es">Warner HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="E! Entertainment Television">
+    <display-name lang="es">E! Entertainment Television</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="es">Fox</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="es">FX HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Unicable HD">
+    <display-name lang="es">Unicable HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Distrito Comedia">
+    <display-name lang="es">Distrito Comedia</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Tlnovelas">
+    <display-name lang="es">Tlnovelas</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Telehit Urbano">
+    <display-name lang="es">Canal Telehit Urbano</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Bandamax">
+    <display-name lang="es">Bandamax</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telehit HD">
+    <display-name lang="es">Telehit HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="es">TNT Series</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="es">TBS</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Home and Health">
+    <display-name lang="es">Home and Health</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="El Gourmet">
+    <display-name lang="es">El Gourmet</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="es">Telemundo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="es">Fox Life</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MTV live">
+    <display-name lang="es">MTV live</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="es">VH1 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal AZ Cinema">
+    <display-name lang="es">Canal AZ Cinema</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Cinemax (O)">
+    <display-name lang="es">Cinemax (O)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Golden Plus">
+    <display-name lang="es">Canal Golden Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Golden Edge">
+    <display-name lang="es">Golden Edge</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="De Película HD">
+    <display-name lang="es">De Película HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="es">TNT HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="es">Space HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FXM">
+    <display-name lang="es">FXM</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinecanal HD">
+    <display-name lang="es">Cinecanal HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Film&amp;Arts">
+    <display-name lang="es">Film&amp;Arts</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Series (Este)">
+    <display-name lang="es">Canal Fox Premium Series (Este)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_series-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Comedy">
+    <display-name lang="es">Canal Fox Premium Comedy</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="es">Fox Movies HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Cinéma">
+    <display-name lang="es">Fox Cinéma</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Family (E)">
+    <display-name lang="es">Fox Family (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Action (E)">
+    <display-name lang="es">Fox Action (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Classics">
+    <display-name lang="es">Fox Classics</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO (E)">
+    <display-name lang="es">HBO (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Family (E)">
+    <display-name lang="es">HBO Family (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal HBO Mundi">
+    <display-name lang="es">Canal HBO Mundi</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Pop">
+    <display-name lang="es">Canal HBO Pop</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Xtreme">
+    <display-name lang="es">Canal HBO Xtreme</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Adrenalina Sports Network">
+    <display-name lang="es">Canal Adrenalina Sports Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="es">ESPN +</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="es">Fox Sports</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal TUDN (México)">
+    <display-name lang="es">Canal TUDN (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golf Channel">
+    <display-name lang="es">Golf Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NFL Network">
+    <display-name lang="es">NFL Network</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2">
+    <display-name lang="es">Canal 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Imagen Televisión">
+    <display-name lang="es">Imagen Televisión</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Foro TV HD">
+    <display-name lang="es">Foro TV HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 5 HD">
+    <display-name lang="es">Canal 5 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Azteca 7 HD">
+    <display-name lang="es">Azteca 7 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Azteca Clic">
+    <display-name lang="es">Azteca Clic</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 9 de México (XEQ-TDT)">
+    <display-name lang="es">Canal 9 de México (XEQ-TDT)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal a+">
+    <display-name lang="es">Canal a+</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">Canal ADN 40</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN Internacional">
+    <display-name lang="es">Canal CNN Internacional</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="CNN en español">
+    <display-name lang="es">CNN en español</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal HLN">
+    <display-name lang="es">Canal HLN</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hln-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RT en Español">
+    <display-name lang="es">Canal RT en Español</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/rt_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox News HD">
+    <display-name lang="es">Fox News HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Galicia TV">
+    <display-name lang="es">Canal Galicia TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/galicia_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal DW (Latinoamérica)">
+    <display-name lang="es">Canal DW (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TV 5">
+    <display-name lang="es">TV 5</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="es">RAI</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal CCTV-Español">
+    <display-name lang="es">Canal CCTV-Español</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cctv_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">Canal TV Chile</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefé (Argentina)">
+    <display-name lang="es">Canal Telefé (Argentina)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Caracol HD (Colombia)">
+    <display-name lang="es">Canal Caracol HD (Colombia)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <programme start="20201027000400 -0600" stop="20201027004200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201027004200 -0600" stop="20201027010600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027010600 -0600" stop="20201027013100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027013100 -0600" stop="20201027015200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201027015200 -0600" stop="20201027021400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201027021400 -0600" stop="20201027024100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20201027024100 -0600" stop="20201027031100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Exploradores Espaciales</title>
+  </programme>
+  <programme start="20201027031100 -0600" stop="20201027033700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201027033700 -0600" stop="20201027035900 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201027035900 -0600" stop="20201027042400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20201027042400 -0600" stop="20201027044700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027044700 -0600" stop="20201027051500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201027051500 -0600" stop="20201027054200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20201027054200 -0600" stop="20201027060400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027060400 -0600" stop="20201027062600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Atchoo</title>
+  </programme>
+  <programme start="20201027062600 -0600" stop="20201027070000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027073900 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027073900 -0600" stop="20201027080200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027080200 -0600" stop="20201027084100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20201027084100 -0600" stop="20201027085600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027085600 -0600" stop="20201027091800 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027091800 -0600" stop="20201027094500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201027094500 -0600" stop="20201027100000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027102500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201027102500 -0600" stop="20201027105200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20201027105200 -0600" stop="20201027111800 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20201027111800 -0600" stop="20201027115600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20201027115600 -0600" stop="20201027121300 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Kingdom Force</title>
+  </programme>
+  <programme start="20201027121300 -0600" stop="20201027124300 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201027124300 -0600" stop="20201027131000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20201027131000 -0600" stop="20201027133500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201027133500 -0600" stop="20201027135600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027135600 -0600" stop="20201027142100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201027142100 -0600" stop="20201027144800 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20201027144800 -0600" stop="20201027152200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20201027152200 -0600" stop="20201027153700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Pablo</title>
+  </programme>
+  <programme start="20201027153700 -0600" stop="20201027160500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201027160500 -0600" stop="20201027163200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201027163200 -0600" stop="20201027165400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201027165400 -0600" stop="20201027171500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027171500 -0600" stop="20201027174300 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20201027174300 -0600" stop="20201027181400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Furiki Wheels</title>
+  </programme>
+  <programme start="20201027181400 -0600" stop="20201027184000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20201027184000 -0600" stop="20201027190100 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201027190100 -0600" stop="20201027192700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20201027192700 -0600" stop="20201027195300 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201027195300 -0600" stop="20201027201800 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201027201800 -0600" stop="20201027204400 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20201027204400 -0600" stop="20201027210500 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Las Aventuras de Pilar</title>
+  </programme>
+  <programme start="20201027210500 -0600" stop="20201027213700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">¡Vamos, Luna</title>
+  </programme>
+  <programme start="20201027213700 -0600" stop="20201027220200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20201027220200 -0600" stop="20201027222700 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Nat Geo Lab</title>
+  </programme>
+  <programme start="20201027222700 -0600" stop="20201027225200 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20201027225200 -0600" stop="20201027231600 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20201027231600 -0600" stop="20201027234000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20201027234000 -0600" stop="20201028004000 -0600" channel="Canal Nat Geo Kids (Pacifico)">
+    <title lang="es">Bitz y Bob</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027040000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">La calle suena</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Fcking love</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">WTF</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">OMG</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">K Pop Swag</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Fcking love</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">La calle suena</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027120000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027130000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">OMG</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027140000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">K Pop Swag</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027150000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027160000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">La calle suena</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">WTF</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">OMG</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027190000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Karaoke</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027200000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Fcking love</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027210000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">We Love Music</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">La calle suena</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Fcking love</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="Canal Telehit Urbano">
+    <title lang="es">Noche Loca Telehit</title>
+  </programme>
+  <programme start="20201027010600 -0600" stop="20201027024900 -0600" channel="Canal AZ Cinema">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201027024900 -0600" stop="20201027041700 -0600" channel="Canal AZ Cinema">
+    <title lang="es">El baño de Afrodita</title>
+  </programme>
+  <programme start="20201027041700 -0600" stop="20201027050000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027083000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027103000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027120000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027123000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027140000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027153000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027173000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027190000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Una movida chueca</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027193000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027210000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027223000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">Las manzanas de Dorotea</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201028000000 -0600" channel="Canal AZ Cinema">
+    <title lang="es">La feria de San Marcos</title>
+  </programme>
+  <programme start="20201027015000 -0600" stop="20201027031700 -0600" channel="Canal Golden Plus">
+    <title lang="es">Te Juro que Yo no Fui</title>
+    <title lang="xx">Te Juro que Yo no Fui</title>
+    <desc lang="es">Un contrabajista se involucra accidentalmente con una española que es perseguida por unos árabes con la intención de quitarle el diamante que ella tiene.</desc>
+    <credits>
+      <actor>Mauricio Ochmann</actor>
+      <actor>Marta Hazas</actor>
+      <actor>Ariadne Díaz</actor>
+      <actor>Marta Aura</actor>
+      <actor>Mónica Dionne</actor>
+      <actor>Rodrigo Murray</actor>
+      <actor>Moisés Iván Mora</actor>
+      <actor>Santiago Salcido</actor>
+      <producer>Fernando Mangino</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/te_juro_que_yo_no_fui.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20201027031700 -0600" stop="20201027044900 -0600" channel="Canal Golden Plus">
+    <title lang="es">Passage to Zarahemla</title>
+  </programme>
+  <programme start="20201027044900 -0600" stop="20201027061700 -0600" channel="Canal Golden Plus">
+    <title lang="es">12 Gifts of Christmas</title>
+  </programme>
+  <programme start="20201027061700 -0600" stop="20201027075400 -0600" channel="Canal Golden Plus">
+    <title lang="es">La era de la desconexión</title>
+  </programme>
+  <programme start="20201027075400 -0600" stop="20201027092600 -0600" channel="Canal Golden Plus">
+    <title lang="es">Super Brother</title>
+  </programme>
+  <programme start="20201027092600 -0600" stop="20201027114300 -0600" channel="Canal Golden Plus">
+    <title lang="es">La búsqueda</title>
+  </programme>
+  <programme start="20201027114300 -0600" stop="20201027135600 -0600" channel="Canal Golden Plus">
+    <title lang="es">Luna nueva</title>
+  </programme>
+  <programme start="20201027135600 -0600" stop="20201027152700 -0600" channel="Canal Golden Plus">
+    <title lang="es">C.O.G</title>
+  </programme>
+  <programme start="20201027152700 -0600" stop="20201027181400 -0600" channel="Canal Golden Plus">
+    <title lang="es">El Patriota</title>
+  </programme>
+  <programme start="20201027181400 -0600" stop="20201027200500 -0600" channel="Canal Golden Plus">
+    <title lang="es">Fuera del cielo</title>
+  </programme>
+  <programme start="20201027200500 -0600" stop="20201027220000 -0600" channel="Canal Golden Plus">
+    <title lang="es">Rendirse jamás</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027233800 -0600" channel="Canal Golden Plus">
+    <title lang="es">Camino a Marte</title>
+    <desc lang="es">Emilia y su mejor amiga Violeta emprenden el viaje de sus vidas sin saber que todo cambiara cuando conocen a un extraño que asegura ser un extraterrestre.</desc>
+    <credits>
+      <actor>Camila Sodi</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Luis Gerardo Méndez</actor>
+      <actor>Tessa Ia</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/camino_a_marte.jpg" />
+  </programme>
+  <programme start="20201027233800 -0600" stop="20201028012600 -0600" channel="Canal Golden Plus">
+    <title lang="es">Por las calles de Nueva York</title>
+  </programme>
+  <programme start="20201027002900 -0600" stop="20201027010900 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Uno Contra Todos</title>
+    <title lang="xx">Um Contra Todos</title>
+    <desc lang="es">Un defensor público cambia su vida drásticamente después de haber sido confundido con el mayor traficante de drogas de su país.</desc>
+    <credits>
+      <actor>Júlio Andrade</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Adélio Lima</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Roney Villela</actor>
+      <actor>Antonio Saboia</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/1_contra_todos.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20201027010900 -0600" stop="20201027014900 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Uno Contra Todos</title>
+    <title lang="xx">Um Contra Todos</title>
+    <desc lang="es">Un defensor público cambia su vida drásticamente después de haber sido confundido con el mayor traficante de drogas de su país.</desc>
+    <credits>
+      <actor>Júlio Andrade</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Adélio Lima</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Roney Villela</actor>
+      <actor>Antonio Saboia</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/1_contra_todos.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20201027014900 -0600" stop="20201027021400 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">The girlfriend experience</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20201027021400 -0600" stop="20201027024500 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">The girlfriend experience</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201027024500 -0600" stop="20201027032300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">The girlfriend experience</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20201027032300 -0600" stop="20201027041300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Aquí en la Tierra</title>
+    <title lang="xx">Aquí en la Tierra</title>
+    <desc lang="es">Tras el asesinato de su padre, un joven heredero de las familias más influyentes en la ciudad de México busca traer a la luz al asesino de su padre.</desc>
+    <credits>
+      <actor>Alfonso Dosal</actor>
+      <actor>Tenoch Huerta</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Yoshira Escárrega</actor>
+      <actor>Sofía Sisniega</actor>
+      <actor>Ezequiel Díaz</actor>
+      <producer>Leandro Halperin</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/aqui_en_la_tierra.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201027041300 -0600" stop="20201027045900 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Aquí en la Tierra</title>
+    <title lang="xx">Aquí en la Tierra</title>
+    <desc lang="es">Tras el asesinato de su padre, un joven heredero de las familias más influyentes en la ciudad de México busca traer a la luz al asesino de su padre.</desc>
+    <credits>
+      <actor>Alfonso Dosal</actor>
+      <actor>Tenoch Huerta</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Yoshira Escárrega</actor>
+      <actor>Sofía Sisniega</actor>
+      <actor>Ezequiel Díaz</actor>
+      <producer>Leandro Halperin</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/aqui_en_la_tierra.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201027045900 -0600" stop="20201027055100 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Aquí en la Tierra</title>
+    <title lang="xx">Aquí en la Tierra</title>
+    <desc lang="es">Tras el asesinato de su padre, un joven heredero de las familias más influyentes en la ciudad de México busca traer a la luz al asesino de su padre.</desc>
+    <credits>
+      <actor>Alfonso Dosal</actor>
+      <actor>Tenoch Huerta</actor>
+      <actor>Paulina Dávila</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Ariadna Gil</actor>
+      <actor>Yoshira Escárrega</actor>
+      <actor>Sofía Sisniega</actor>
+      <actor>Ezequiel Díaz</actor>
+      <producer>Leandro Halperin</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/aqui_en_la_tierra.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201027055100 -0600" stop="20201027061500 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Baskets</title>
+    <title lang="xx">Baskets</title>
+    <desc lang="es">Tras haber fallado en la escuela de payasos, Chip Baskets regresa a su casa en Bakersfield compitiendo con su hermano gemelo por la aprobación de su madre.</desc>
+    <credits>
+      <actor>Zach Galifianakis</actor>
+      <actor>Martha Kelly</actor>
+      <actor>Louie Anderson</actor>
+      <actor>Sabina Sciubba</actor>
+      <actor>Malia Pyles</actor>
+      <actor>Ernest Adams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/baskets.jpg" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20201027061500 -0600" stop="20201027064000 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Baskets</title>
+    <title lang="xx">Baskets</title>
+    <desc lang="es">Tras haber fallado en la escuela de payasos, Chip Baskets regresa a su casa en Bakersfield compitiendo con su hermano gemelo por la aprobación de su madre.</desc>
+    <credits>
+      <actor>Zach Galifianakis</actor>
+      <actor>Martha Kelly</actor>
+      <actor>Louie Anderson</actor>
+      <actor>Sabina Sciubba</actor>
+      <actor>Malia Pyles</actor>
+      <actor>Ernest Adams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/baskets.jpg" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20201027064000 -0600" stop="20201027070500 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Baskets</title>
+    <title lang="xx">Baskets</title>
+    <desc lang="es">Tras haber fallado en la escuela de payasos, Chip Baskets regresa a su casa en Bakersfield compitiendo con su hermano gemelo por la aprobación de su madre.</desc>
+    <credits>
+      <actor>Zach Galifianakis</actor>
+      <actor>Martha Kelly</actor>
+      <actor>Louie Anderson</actor>
+      <actor>Sabina Sciubba</actor>
+      <actor>Malia Pyles</actor>
+      <actor>Ernest Adams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/baskets.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20201027070500 -0600" stop="20201027073000 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Baskets</title>
+    <title lang="xx">Baskets</title>
+    <desc lang="es">Tras haber fallado en la escuela de payasos, Chip Baskets regresa a su casa en Bakersfield compitiendo con su hermano gemelo por la aprobación de su madre.</desc>
+    <credits>
+      <actor>Zach Galifianakis</actor>
+      <actor>Martha Kelly</actor>
+      <actor>Louie Anderson</actor>
+      <actor>Sabina Sciubba</actor>
+      <actor>Malia Pyles</actor>
+      <actor>Ernest Adams</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/baskets.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20201027073000 -0600" stop="20201027075500 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Better Things</title>
+    <title lang="xx">Better Things</title>
+    <desc lang="es">Una actriz sin filtro que trata de ganarse la vida, navega en la vida de sus hijas, se divierte con un amigo o dos, y quizás logre tener un tiempo a solas.</desc>
+    <credits>
+      <actor>Pamela Adlon</actor>
+      <actor>Mikey Madison</actor>
+      <actor>Hannah Alligood</actor>
+      <actor>Olivia Edward</actor>
+      <actor>Celia Imrie</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/better_things.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20201027075500 -0600" stop="20201027082000 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Better Things</title>
+    <title lang="xx">Better Things</title>
+    <desc lang="es">Una actriz sin filtro que trata de ganarse la vida, navega en la vida de sus hijas, se divierte con un amigo o dos, y quizás logre tener un tiempo a solas.</desc>
+    <credits>
+      <actor>Pamela Adlon</actor>
+      <actor>Mikey Madison</actor>
+      <actor>Hannah Alligood</actor>
+      <actor>Olivia Edward</actor>
+      <actor>Celia Imrie</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/better_things.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20201027082000 -0600" stop="20201027084900 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Better Things</title>
+    <title lang="xx">Better Things</title>
+    <desc lang="es">Una actriz sin filtro que trata de ganarse la vida, navega en la vida de sus hijas, se divierte con un amigo o dos, y quizás logre tener un tiempo a solas.</desc>
+    <credits>
+      <actor>Pamela Adlon</actor>
+      <actor>Mikey Madison</actor>
+      <actor>Hannah Alligood</actor>
+      <actor>Olivia Edward</actor>
+      <actor>Celia Imrie</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/better_things.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20201027084900 -0600" stop="20201027094600 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Outlander</title>
+    <desc lang="es">En el año 1945, una enfermera de combate ha sido transportada misteriosamente al año 1743 donde es forzada a contraer matrimonio con un joven guerrero Escoces.</desc>
+    <credits>
+      <actor>Caitriona Balfe</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Gary Lewis</actor>
+      <producer>Ronald Moore</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/outlander.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201027094600 -0600" stop="20201027103800 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Outlander</title>
+    <desc lang="es">En el año 1945, una enfermera de combate ha sido transportada misteriosamente al año 1743 donde es forzada a contraer matrimonio con un joven guerrero Escoces.</desc>
+    <credits>
+      <actor>Caitriona Balfe</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Gary Lewis</actor>
+      <producer>Ronald Moore</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/outlander.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201027103800 -0600" stop="20201027114100 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Outlander</title>
+    <desc lang="es">En el año 1945, una enfermera de combate ha sido transportada misteriosamente al año 1743 donde es forzada a contraer matrimonio con un joven guerrero Escoces.</desc>
+    <credits>
+      <actor>Caitriona Balfe</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Gary Lewis</actor>
+      <producer>Ronald Moore</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/outlander.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20201027114100 -0600" stop="20201027123500 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Uno Contra Todos</title>
+    <title lang="xx">Um Contra Todos</title>
+    <desc lang="es">Un defensor público cambia su vida drásticamente después de haber sido confundido con el mayor traficante de drogas de su país.</desc>
+    <credits>
+      <actor>Júlio Andrade</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Adélio Lima</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Roney Villela</actor>
+      <actor>Antonio Saboia</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/1_contra_todos.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20201027123500 -0600" stop="20201027132200 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Uno Contra Todos</title>
+    <title lang="xx">Um Contra Todos</title>
+    <desc lang="es">Un defensor público cambia su vida drásticamente después de haber sido confundido con el mayor traficante de drogas de su país.</desc>
+    <credits>
+      <actor>Júlio Andrade</actor>
+      <actor>Julia Ianina</actor>
+      <actor>Adélio Lima</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Roney Villela</actor>
+      <actor>Antonio Saboia</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/1_contra_todos.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20201027132200 -0600" stop="20201027142100 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Da Vinci's Demons</title>
+    <desc lang="es">En una era donde el pensamiento y la fe son controlados, un hombre llamado Leonardo Da Vinci pelea con el fin de liberar el conocimiento.</desc>
+    <credits>
+      <actor>Tom Riley</actor>
+      <actor>Laura Haddock</actor>
+      <actor>Blake Ritson</actor>
+      <actor>Lara Pulver</actor>
+      <actor>James Faulkner</actor>
+      <actor>Gregg Chillin</actor>
+      <producer>David S. Goyer</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/da_vinci's_demons.png" />
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201027142100 -0600" stop="20201027151700 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Da Vinci's Demons</title>
+    <desc lang="es">En una era donde el pensamiento y la fe son controlados, un hombre llamado Leonardo Da Vinci pelea con el fin de liberar el conocimiento.</desc>
+    <credits>
+      <actor>Tom Riley</actor>
+      <actor>Laura Haddock</actor>
+      <actor>Blake Ritson</actor>
+      <actor>Lara Pulver</actor>
+      <actor>James Faulkner</actor>
+      <actor>Gregg Chillin</actor>
+      <producer>David S. Goyer</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/da_vinci's_demons.png" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20201027151700 -0600" stop="20201027161600 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Power</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20201027161600 -0600" stop="20201027171300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Power</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20201027171300 -0600" stop="20201027175700 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Empire</title>
+    <title lang="xx">Empire</title>
+    <desc lang="es">El jefe del imperio musical se viene abajo cuando es diagnosticado con una enfermedad terminal, ahora sus 3 hijos y ex esposa buscan quedarse con el trono.</desc>
+    <credits>
+      <actor>Terrence Howard</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Trai Byers</actor>
+      <actor>Grace Byers</actor>
+      <actor>Malik Yoba</actor>
+      <actor>Kaitlin Doubleday</actor>
+      <producer>Attica Locke</producer>
+      <producer>Malcolm Spellman</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/empire.jpg" />
+    <episode-num system="onscreen">S6 E16</episode-num>
+  </programme>
+  <programme start="20201027175700 -0600" stop="20201027184200 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Empire</title>
+    <title lang="xx">Empire</title>
+    <desc lang="es">El jefe del imperio musical se viene abajo cuando es diagnosticado con una enfermedad terminal, ahora sus 3 hijos y ex esposa buscan quedarse con el trono.</desc>
+    <credits>
+      <actor>Terrence Howard</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Trai Byers</actor>
+      <actor>Grace Byers</actor>
+      <actor>Malik Yoba</actor>
+      <actor>Kaitlin Doubleday</actor>
+      <producer>Attica Locke</producer>
+      <producer>Malcolm Spellman</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/empire.jpg" />
+    <episode-num system="onscreen">S6 E17</episode-num>
+  </programme>
+  <programme start="20201027184200 -0600" stop="20201027193000 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Empire</title>
+    <title lang="xx">Empire</title>
+    <desc lang="es">El jefe del imperio musical se viene abajo cuando es diagnosticado con una enfermedad terminal, ahora sus 3 hijos y ex esposa buscan quedarse con el trono.</desc>
+    <credits>
+      <actor>Terrence Howard</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Bryshere Y. Gray</actor>
+      <actor>Jussie Smollett</actor>
+      <actor>Trai Byers</actor>
+      <actor>Grace Byers</actor>
+      <actor>Malik Yoba</actor>
+      <actor>Kaitlin Doubleday</actor>
+      <producer>Attica Locke</producer>
+      <producer>Malcolm Spellman</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/empire.jpg" />
+    <episode-num system="onscreen">S6 E18</episode-num>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027195700 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Mr Inbetween</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20201027195700 -0600" stop="20201027201700 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">What we do in the shadows</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20201027201700 -0600" stop="20201027204100 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">What we do in the shadows</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20201027204100 -0600" stop="20201027211300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Better Things</title>
+    <title lang="xx">Better Things</title>
+    <desc lang="es">Una actriz sin filtro que trata de ganarse la vida, navega en la vida de sus hijas, se divierte con un amigo o dos, y quizás logre tener un tiempo a solas.</desc>
+    <credits>
+      <actor>Pamela Adlon</actor>
+      <actor>Mikey Madison</actor>
+      <actor>Hannah Alligood</actor>
+      <actor>Olivia Edward</actor>
+      <actor>Celia Imrie</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/better_things.jpg" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20201027211300 -0600" stop="20201027220300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Mrs. America</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20201027220300 -0600" stop="20201027230600 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">A Christmas Carol</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20201027230600 -0600" stop="20201027233300 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Mr Inbetween</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20201027233300 -0600" stop="20201028003100 -0600" channel="Canal Fox Premium Series (Este)">
+    <title lang="es">Outlander</title>
+    <desc lang="es">En el año 1945, una enfermera de combate ha sido transportada misteriosamente al año 1743 donde es forzada a contraer matrimonio con un joven guerrero Escoces.</desc>
+    <credits>
+      <actor>Caitriona Balfe</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Tobias Menzies</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Gary Lewis</actor>
+      <producer>Ronald Moore</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/outlander.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20201027011900 -0600" stop="20201027031100 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Beautiful girls</title>
+  </programme>
+  <programme start="20201027031100 -0600" stop="20201027032800 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201027032800 -0600" stop="20201027050700 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Cuando la vida sucede</title>
+  </programme>
+  <programme start="20201027050700 -0600" stop="20201027064100 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Road Trip Beer Pong</title>
+  </programme>
+  <programme start="20201027064100 -0600" stop="20201027075800 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Otra ridícula película de</title>
+  </programme>
+  <programme start="20201027075800 -0600" stop="20201027092600 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20201027092600 -0600" stop="20201027110100 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">The Sapphires</title>
+  </programme>
+  <programme start="20201027110100 -0600" stop="20201027122800 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Perdidos en Nueva York</title>
+  </programme>
+  <programme start="20201027122800 -0600" stop="20201027140600 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Happy thank you more please</title>
+  </programme>
+  <programme start="20201027140600 -0600" stop="20201027153400 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Grounded for Christmas</title>
+  </programme>
+  <programme start="20201027153400 -0600" stop="20201027171300 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Hada por accidente</title>
+  </programme>
+  <programme start="20201027171300 -0600" stop="20201027190000 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027204600 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Verano en Staten Island</title>
+  </programme>
+  <programme start="20201027204600 -0600" stop="20201027223300 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Luchando con mi Familia</title>
+    <title lang="xx">Fighting with My Family</title>
+    <desc lang="es">Basada en la increíble historia real de la estrella de la WWE, Paige, desde sus inicios y de cómo debió enfrentarse a un mundo competitivo y desconocido.</desc>
+    <credits>
+      <actor>Florence Pugh</actor>
+      <actor>Lena Headey</actor>
+      <actor>Nick Frost</actor>
+      <actor>Jack Lowden</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Dwayne Johnson</actor>
+      <producer>Kevin Misher</producer>
+      <producer>Dany Garcia</producer>
+      <composer>Vik Sharma</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/luchando_con_mi_familia.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20201027223300 -0600" stop="20201027235600 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">El regalo prometido</title>
+  </programme>
+  <programme start="20201027235600 -0600" stop="20201028012200 -0600" channel="Canal Fox Premium Comedy">
+    <title lang="es">Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201027005500 -0600" stop="20201027031500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">J. Edgar</title>
+  </programme>
+  <programme start="20201027031500 -0600" stop="20201027051500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Un día de furia</title>
+  </programme>
+  <programme start="20201027051500 -0600" stop="20201027074200 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Un horizonte lejano</title>
+  </programme>
+  <programme start="20201027074200 -0600" stop="20201027093000 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Conociendo a Flynn</title>
+  </programme>
+  <programme start="20201027093000 -0600" stop="20201027111500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Fahrenheit 451</title>
+    <title lang="xx">Fahrenheit 451</title>
+    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros.</desc>
+    <credits>
+      <actor>Michael B. Jordan</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Lilly Singh</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Andy McQueen</actor>
+      <actor>Dylan Taylor</actor>
+      <producer>David Coatsworth</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/fahrenheit_451.jpg" />
+  </programme>
+  <programme start="20201027111500 -0600" stop="20201027132000 -0600" channel="Canal HBO Mundi">
+    <title lang="es">El más valiente</title>
+  </programme>
+  <programme start="20201027132000 -0600" stop="20201027151000 -0600" channel="Canal HBO Mundi">
+    <title lang="es">El pacto</title>
+  </programme>
+  <programme start="20201027151000 -0600" stop="20201027165500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Las Reinas del Crimen</title>
+    <title lang="xx">The Kitchen (2019)</title>
+    <desc lang="es">Tres amas de casa deciden tomar los asuntos de la mafia irlandesa con sus propias manos cuando sus maridos mafiosos son enviados a prisión por el FBI.</desc>
+    <credits>
+      <actor>Melissa McCarthy</actor>
+      <actor>Tiffany Haddish</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Brian d'Arcy James</actor>
+      <actor>Margo Martindale</actor>
+      <actor>Common</actor>
+      <producer>Michael De Luca</producer>
+      <producer>Marcus Viscidi</producer>
+      <composer>Bryce Dessner</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_reinas_del_crimen.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20201027165500 -0600" stop="20201027182500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">En los 90</title>
+    <title lang="xx">Mid90s</title>
+    <desc lang="es">En la época de los 90 en la ciudad de Los Ángeles un joven de trece años conoce a un grupo de nuevos amigos en la tienda de patinetas de Motor Avenue.</desc>
+    <credits>
+      <actor>Sunny Suljic</actor>
+      <actor>Lucas Hedges</actor>
+      <actor>Na-Kel Smith</actor>
+      <actor>Olan Prenatt</actor>
+      <actor>Gio Galicia</actor>
+      <actor>Ryder McLaughlin</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Katherine Waterston</actor>
+      <producer>Eli Bush</producer>
+      <producer>Jonah Hill</producer>
+      <composer>Trent Reznor</composer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/en_los_90.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20201027182500 -0600" stop="20201027201500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Your Name</title>
+  </programme>
+  <programme start="20201027201500 -0600" stop="20201027220000 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Gloria Bell</title>
+    <title lang="xx">Gloria Bell</title>
+    <desc lang="es">Gloria Bell es una mujer divorciada de espíritu libre conoce a un hombre llamado Arnold en una noche, encontrándose inmersa en un nuevo romance inesperado.</desc>
+    <credits>
+      <actor>Julianne Moore</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Cera</actor>
+      <actor>Caren Pistorius</actor>
+      <actor>Brad Garrett</actor>
+      <actor>Jeanne Tripplehorn</actor>
+      <actor>Rita Wilson</actor>
+      <actor>Chris Mulkey</actor>
+      <producer>Juan de Dios Larraín</producer>
+      <producer>Pablo Larraín</producer>
+      <composer>Matthew Herbert</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/gloria_bell.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Chile</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027225500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Gomorra</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20201027225500 -0600" stop="20201027235000 -0600" channel="Canal HBO Mundi">
+    <title lang="es">Gomorra</title>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20201027235000 -0600" stop="20201028013500 -0600" channel="Canal HBO Mundi">
+    <title lang="es">El cazador</title>
+  </programme>
+  <programme start="20201027000700 -0600" stop="20201027005500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Cenicienta después del</title>
+  </programme>
+  <programme start="20201027005500 -0600" stop="20201027025200 -0600" channel="Canal HBO Pop">
+    <title lang="es">Hecho En Dagenham</title>
+  </programme>
+  <programme start="20201027025200 -0600" stop="20201027044000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Una familia disfuncional</title>
+  </programme>
+  <programme start="20201027044000 -0600" stop="20201027065600 -0600" channel="Canal HBO Pop">
+    <title lang="es">Los Chicos De Mi Vida</title>
+  </programme>
+  <programme start="20201027065600 -0600" stop="20201027090300 -0600" channel="Canal HBO Pop">
+    <title lang="es">EDTV</title>
+  </programme>
+  <programme start="20201027090300 -0600" stop="20201027104300 -0600" channel="Canal HBO Pop">
+    <title lang="es">Mis Huellas a Casa</title>
+    <title lang="xx">A Dog's Way Home</title>
+    <desc lang="es">Narra la emocionante aventura de Bella, una perra que se embarca en un viaje épico de 400 millas a casa después de que se separa de su amada familia humana.</desc>
+    <credits>
+      <actor>Ashley Judd</actor>
+      <actor>Edward James Olmos</actor>
+      <actor>Alexandra Shipp</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Wes Studi</actor>
+      <actor>Barry Watson</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Tammy Gillis</actor>
+      <producer>W. Bruce Cameron</producer>
+      <producer>Gavin Polone</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mis_huellas_a_casa.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20201027104300 -0600" stop="20201027123200 -0600" channel="Canal HBO Pop">
+    <title lang="es">La boda de mi mejor amigo</title>
+  </programme>
+  <programme start="20201027123200 -0600" stop="20201027140200 -0600" channel="Canal HBO Pop">
+    <title lang="es">Bajo la Torre Eiffel</title>
+  </programme>
+  <programme start="20201027140200 -0600" stop="20201027154800 -0600" channel="Canal HBO Pop">
+    <title lang="es">Juego de poder</title>
+  </programme>
+  <programme start="20201027154800 -0600" stop="20201027173000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Larry Crowne el amor llama</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027190000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Locos por los votos</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027210000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Loco y estupido amor</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027224500 -0600" channel="Canal HBO Pop">
+    <title lang="es">Un cumpleaños problemático</title>
+  </programme>
+  <programme start="20201027224500 -0600" stop="20201028002000 -0600" channel="Canal HBO Pop">
+    <title lang="es">Muerte en el funeral</title>
+  </programme>
+  <programme start="20201027015000 -0600" stop="20201027045500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">El Lobo de Wall Street</title>
+    <title lang="xx">The Wolf of Wall Street</title>
+    <desc lang="es">La verdadera historia de Jordan Beltford, desde sus inicios cómo un adinerado corredor de bolsa hasta su caída envuelto en crímenes, corrupción y drogas.</desc>
+    <credits>
+      <actor>Leonardo Di Caprio</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Matthew McConaughey</actor>
+      <producer>Martin Scorsese</producer>
+      <producer>Leonardo DiCaprio</producer>
+    </credits>
+    <date>2013</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_lobo_de_wall_street.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20201027045500 -0600" stop="20201027065000 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Siete psicópatas</title>
+  </programme>
+  <programme start="20201027065000 -0600" stop="20201027085000 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">El jurado</title>
+  </programme>
+  <programme start="20201027085000 -0600" stop="20201027104500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201027104500 -0600" stop="20201027125000 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">La amenaza invisible</title>
+  </programme>
+  <programme start="20201027125000 -0600" stop="20201027153500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Había una vez en Hollywood</title>
+    <title lang="xx">Once Upon a Time in Hollywood</title>
+    <desc lang="es">En Hollywood de 1969, el actor de televisión Rick Dalton y su doble de riesgo Cliff Booth, se abren paso en una industria que difícilmente reconocen.</desc>
+    <credits>
+      <actor>Margot Robbie</actor>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Luke Perry</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Maya Hawke</actor>
+      <actor>Al Pacino</actor>
+      <producer>Quentin Tarantino</producer>
+      <producer>David Heyman</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/habia_una_vez_en_hollywood.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20201027153500 -0600" stop="20201027172000 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Legión de Angeles</title>
+  </programme>
+  <programme start="20201027172000 -0600" stop="20201027192500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Hot Fuzz Súper policías</title>
+  </programme>
+  <programme start="20201027192500 -0600" stop="20201027212500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Primicia mortal</title>
+  </programme>
+  <programme start="20201027212500 -0600" stop="20201027225500 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Solo dios perdona</title>
+  </programme>
+  <programme start="20201027225500 -0600" stop="20201028000000 -0600" channel="Canal HBO Xtreme">
+    <title lang="es">Warrior</title>
+    <title lang="xx">Warrior</title>
+    <desc lang="es">Un joven prodigo de las artes marciales, recién llegado de China, se encuentra atrapado en las sangrientas Guerras de Chinatown en San Francisco.</desc>
+    <credits>
+      <actor>Andrew Koji</actor>
+      <actor>Olivia Cheng</actor>
+      <actor>Jason Tobin</actor>
+      <actor>Dianne Doan</actor>
+      <actor>Kieran Bew</actor>
+      <actor>Dean S. Jagger</actor>
+      <actor>Joanna Vanderham</actor>
+      <actor>Tom Weston-Jones</actor>
+      <producer>Brad Kane</producer>
+      <producer>Shannon Lee</producer>
+      <composer>Reza Safinia</composer>
+      <composer>H. Scott Salinas</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/warrior.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027030000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027034500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo Reglas Claras</title>
+  </programme>
+  <programme start="20201027034500 -0600" stop="20201027041000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20201027041000 -0600" stop="20201027050500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20201027050500 -0600" stop="20201027060500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20201027060500 -0600" stop="20201027070500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Yoga con Luz</title>
+  </programme>
+  <programme start="20201027070500 -0600" stop="20201027080500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20201027080500 -0600" stop="20201027090000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027095500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20201027095500 -0600" stop="20201027115500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20201027115500 -0600" stop="20201027125500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20201027125500 -0600" stop="20201027134000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo Reglas Claras</title>
+  </programme>
+  <programme start="20201027134000 -0600" stop="20201027143500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20201027143500 -0600" stop="20201027150500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20201027150500 -0600" stop="20201027160000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Lopes vs. Mandarina Repetición</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aquí te levantas</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027175500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20201027175500 -0600" stop="20201027182000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Desafío TDN</title>
+  </programme>
+  <programme start="20201027182000 -0600" stop="20201027190500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo Reglas Claras</title>
+  </programme>
+  <programme start="20201027190500 -0600" stop="20201027210500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20201027210500 -0600" stop="20201027220500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Aventura Extrema 2015</title>
+  </programme>
+  <programme start="20201027220500 -0600" stop="20201027230000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">XFL 2018</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027020000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Versus</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027030000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027040000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Hazaña el deporte vive</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Versus</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Hazaña el deporte vive</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027110000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Guadalajara vs. Cruz Azul</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027120000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027140000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Tigres vs. FC Juárez</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027160000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Guadalajara vs. Cruz Azul</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">TUTribuna</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027190000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Futbol club</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027200000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027210000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">TUTribuna</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="Canal TUDN (México)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20201027001500 -0600" stop="20201027003000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027040000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027041500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20201027041500 -0600" stop="20201027050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027061500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027061500 -0600" stop="20201027070000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027110000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027150000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027163000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027173000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027193000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027223000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027231500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20201027231500 -0600" stop="20201027233000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027013000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027050000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027051500 -0600" channel="Canal a+">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201027051500 -0600" stop="20201027053000 -0600" channel="Canal a+">
+    <title lang="es">José de los milagros</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027080000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Canal a+">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027103000 -0600" channel="Canal a+">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027113000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027113000 -0600" stop="20201027120000 -0600" channel="Canal a+">
+    <title lang="es">Manantial CDMX</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027140000 -0600" channel="Canal a+">
+    <title lang="es">Santo vs. los villanos</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027150000 -0600" channel="Canal a+">
+    <title lang="es">A quien corresponda</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027160000 -0600" channel="Canal a+">
+    <title lang="es">Ahora Más en tu Barrio</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027174500 -0600" channel="Canal a+">
+    <title lang="es">Santo vs. el Cerebro del Mal</title>
+  </programme>
+  <programme start="20201027174500 -0600" stop="20201027193000 -0600" channel="Canal a+">
+    <title lang="es">Los novios</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027203000 -0600" channel="Canal a+">
+    <title lang="es">No es normal</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="Canal a+">
+    <title lang="es">El lado siniestro de la histor</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="Canal a+">
+    <title lang="es">Ahora Más Noticias</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="Canal a+">
+    <title lang="es">T3rcer Milenio Noticias</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027233000 -0600" channel="Canal a+">
+    <title lang="es">¿Te La Juegas</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal a+">
+    <title lang="es">Manantial CDMX</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027023000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027033000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027050000 -0600" channel="Canal ADN 40">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027110000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027120000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027130000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027150000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Juan Pablo de</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027190000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal ADN 40">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027010000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027013000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027020000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027023000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="Canal HLN">
+    <title lang="es">Morning Express With Robin Meade</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="Canal HLN">
+    <title lang="es">Morning Express With Robin Meade</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="Canal HLN">
+    <title lang="es">Morning Express With Robin Meade</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Canal HLN">
+    <title lang="es">Morning Express With Robin Meade</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Canal HLN">
+    <title lang="es">Morning Express With Robin Meade</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="Canal HLN">
+    <title lang="es">Very Scary People</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027110000 -0600" channel="Canal HLN">
+    <title lang="es">Very Scary People</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027120000 -0600" channel="Canal HLN">
+    <title lang="es">Very Scary People</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027130000 -0600" channel="Canal HLN">
+    <title lang="es">Very Scary People</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027133000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027133000 -0600" stop="20201027140000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027150000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027153000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027163000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027173000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027180000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027200000 -0600" channel="Canal HLN">
+    <title lang="es">Very Scary People</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027203000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027213000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal HLN">
+    <title lang="es">Forensic Files</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027010000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027013000 -0600" channel="Canal RT en Español">
+    <title lang="es">La India niños desaparecidos</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027020000 -0600" channel="Canal RT en Español">
+    <title lang="es">Ciudadelas verdes</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027023000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal RT en Español">
+    <title lang="es">La India niños desaparecidos</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Canal RT en Español">
+    <title lang="es">Ciudadelas verdes</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027043000 -0600" channel="Canal RT en Español">
+    <title lang="es">La India niños desaparecidos</title>
+  </programme>
+  <programme start="20201027043000 -0600" stop="20201027050000 -0600" channel="Canal RT en Español">
+    <title lang="es">Ciudadelas verdes</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027063000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027063000 -0600" stop="20201027070000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027073000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027093000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027093000 -0600" stop="20201027100000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027103000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027110000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027113000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027113000 -0600" stop="20201027120000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027123000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027130000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027133000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027133000 -0600" stop="20201027140000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027150000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027153000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027163000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027173000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027180000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027183000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027183000 -0600" stop="20201027190000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027193000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027200000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027203000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027213000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027010000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027013000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027020000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027023000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Bos Días</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Estache Bo</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027043000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A bola extra</title>
+  </programme>
+  <programme start="20201027043000 -0600" stop="20201027050000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A Revista</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A Revista</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A Revista</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027063000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Galicia noticias maña</title>
+  </programme>
+  <programme start="20201027063000 -0600" stop="20201027070000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal mediodía</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027073000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal mediodía</title>
+  </programme>
+  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal mediodía</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Quen anda aí</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Quen anda aí</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027093000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Quen anda aí</title>
+  </programme>
+  <programme start="20201027093000 -0600" stop="20201027100000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Quen anda aí</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027103000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Quen anda aí</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027110000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Fun polo aire</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027113000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Fun polo aire</title>
+  </programme>
+  <programme start="20201027113000 -0600" stop="20201027120000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Fun polo aire</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027123000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Estache Bo</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027130000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027133000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027133000 -0600" stop="20201027140000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Tesouros no faiado</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027150000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Tesouros no faiado</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027153000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Made in Galicia</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Pescadores de historias</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027163000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Padre Casares</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Padre Casares</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027173000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Zigzag</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027180000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027183000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027183000 -0600" stop="20201027190000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Telexornal serán</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027193000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Malicia noticias</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027200000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Na mente do asasino</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027203000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Na mente do asasino</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Na mente do asasino</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027213000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Na mente do asasino</title>
+  </programme>
+  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Pescadores de historias</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Que casas</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="Canal Galicia TV">
+    <title lang="es">Que casas</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A Revista</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal Galicia TV">
+    <title lang="es">A Revista</title>
+  </programme>
+  <programme start="20201027000300 -0600" stop="20201027003000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20201027003000 -0600" stop="20201027010000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027010300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027010300 -0600" stop="20201027011500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20201027011500 -0600" stop="20201027020000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">¿Acumular beneficios o salvar vidas? - El poder de los consorcios farmacéuticos</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027020300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027020300 -0600" stop="20201027023000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027030300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027030300 -0600" stop="20201027033000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027040300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027040300 -0600" stop="20201027041500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20201027041500 -0600" stop="20201027050000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Los Estados Unidos de Donald Trump: La superpotencia desconocida</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027050300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027050300 -0600" stop="20201027053000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20201027060000 -0600" stop="20201027060300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027060300 -0600" stop="20201027063000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20201027063000 -0600" stop="20201027070000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027070300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027070300 -0600" stop="20201027071500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20201027071500 -0600" stop="20201027080000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">¿Acumular beneficios o salvar vidas? - El poder de los consorcios farmacéuticos</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027080300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027080300 -0600" stop="20201027083000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027090300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027090300 -0600" stop="20201027093000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20201027093000 -0600" stop="20201027100000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027100300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027100300 -0600" stop="20201027103000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027110000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027110300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027110300 -0600" stop="20201027111500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20201027111500 -0600" stop="20201027120000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Los Estados Unidos de Donald Trump: La superpotencia desconocida</title>
+  </programme>
+  <programme start="20201027120000 -0600" stop="20201027123000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027130000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027130300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027130300 -0600" stop="20201027131500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20201027131500 -0600" stop="20201027140000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Desplazados: Sequías e inundaciones - El éxodo climático</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027150000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027150300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027150300 -0600" stop="20201027151500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20201027151500 -0600" stop="20201027160000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Los sumideros del poder: Cum-Ex, un escándalo fiscal multimillonario</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027163000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027171500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027171500 -0600" stop="20201027173000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20201027173000 -0600" stop="20201027180000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20201027180000 -0600" stop="20201027183000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027183000 -0600" stop="20201027190000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20201027190000 -0600" stop="20201027191500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027191500 -0600" stop="20201027193000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20201027193000 -0600" stop="20201027200000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027200300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027200300 -0600" stop="20201027201500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20201027201500 -0600" stop="20201027210000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Los sumideros del poder: Cum-Ex, un escándalo fiscal multimillonario</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027210300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027210300 -0600" stop="20201027213000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027221500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027221500 -0600" stop="20201027223000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027230300 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20201027230300 -0600" stop="20201027231500 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20201027231500 -0600" stop="20201028000000 -0600" channel="Canal DW (Latinoamérica)">
+    <title lang="es">¿Acumular beneficios o salvar vidas? - El poder de los consorcios farmacéuticos</title>
+  </programme>
+  <programme start="20201027001000 -0600" stop="20201027010000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027010000 -0600" stop="20201027011500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027011500 -0600" stop="20201027013000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Arte Culinario Chino</title>
+  </programme>
+  <programme start="20201027013000 -0600" stop="20201027020000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Diálogo</title>
+  </programme>
+  <programme start="20201027020000 -0600" stop="20201027022800 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027022800 -0600" stop="20201027023000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Guía TV</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Asi es China</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027041500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">BizChina</title>
+  </programme>
+  <programme start="20201027041500 -0600" stop="20201027043000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Viajando y aprendiendo chino</title>
+  </programme>
+  <programme start="20201027043000 -0600" stop="20201027050000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Mundo Insólito</title>
+  </programme>
+  <programme start="20201027050000 -0600" stop="20201027052000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Ronda Artística</title>
+  </programme>
+  <programme start="20201027052000 -0600" stop="20201027061000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027061000 -0600" stop="20201027070000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027070000 -0600" stop="20201027071500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027071500 -0600" stop="20201027073000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Arte Culinario Chino</title>
+  </programme>
+  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Diálogo</title>
+  </programme>
+  <programme start="20201027080000 -0600" stop="20201027082800 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027082800 -0600" stop="20201027083000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Guía TV</title>
+  </programme>
+  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027090000 -0600" stop="20201027093000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027093000 -0600" stop="20201027100000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Asi es China</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027101500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">BizChina</title>
+  </programme>
+  <programme start="20201027101500 -0600" stop="20201027103000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Viajando y aprendiendo chino</title>
+  </programme>
+  <programme start="20201027103000 -0600" stop="20201027110000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Mundo Insólito</title>
+  </programme>
+  <programme start="20201027110000 -0600" stop="20201027112000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Ronda Artística</title>
+  </programme>
+  <programme start="20201027112000 -0600" stop="20201027121000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027121000 -0600" stop="20201027130000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027130000 -0600" stop="20201027131500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027131500 -0600" stop="20201027133000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Arte Culinario Chino</title>
+  </programme>
+  <programme start="20201027133000 -0600" stop="20201027140000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Diálogo</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027150000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027150000 -0600" stop="20201027153000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Asi es China</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027161500 -0600" channel="Canal CCTV-Español">
+    <title lang="es">BizChina</title>
+  </programme>
+  <programme start="20201027161500 -0600" stop="20201027163000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Viajando y aprendiendo chino</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Mundo Insólito</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027172000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Ronda Artística</title>
+  </programme>
+  <programme start="20201027172000 -0600" stop="20201027181000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027181000 -0600" stop="20201027185900 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20201027185900 -0600" stop="20201027200000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027200000 -0600" stop="20201027202800 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027202800 -0600" stop="20201027203000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Guía TV</title>
+  </programme>
+  <programme start="20201027203000 -0600" stop="20201027210000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027210000 -0600" stop="20201027213000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Asi es China</title>
+  </programme>
+  <programme start="20201027220000 -0600" stop="20201027223000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Puntos de vista</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Mundo Insólito</title>
+  </programme>
+  <programme start="20201027230000 -0600" stop="20201027232000 -0600" channel="Canal CCTV-Español">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20201027004500 -0600" stop="20201027014500 -0600" channel="Canal TV Chile">
+    <title lang="es">Aquí te las traigo Peter</title>
+  </programme>
+  <programme start="20201027014500 -0600" stop="20201027023000 -0600" channel="Canal TV Chile">
+    <title lang="es">Aquí Mando Yo</title>
+  </programme>
+  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Canal TV Chile">
+    <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027040000 -0600" stop="20201027053000 -0600" channel="Canal TV Chile">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20201027053000 -0600" stop="20201027100000 -0600" channel="Canal TV Chile">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20201027100000 -0600" stop="20201027123000 -0600" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20201027123000 -0600" stop="20201027133000 -0600" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201027133000 -0600" stop="20201027140000 -0600" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027140000 -0600" stop="20201027143000 -0600" channel="Canal TV Chile">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201027143000 -0600" stop="20201027153000 -0600" channel="Canal TV Chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20201027153000 -0600" stop="20201027160000 -0600" channel="Canal TV Chile">
+    <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+  <programme start="20201027160000 -0600" stop="20201027163000 -0600" channel="Canal TV Chile">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20201027163000 -0600" stop="20201027170000 -0600" channel="Canal TV Chile">
+    <title lang="es">La Chúcara</title>
+  </programme>
+  <programme start="20201027170000 -0600" stop="20201027174500 -0600" channel="Canal TV Chile">
+    <title lang="es">Aquí Mando Yo</title>
+  </programme>
+  <programme start="20201027174500 -0600" stop="20201027194000 -0600" channel="Canal TV Chile">
+    <title lang="es">24 Horas Central</title>
+  </programme>
+  <programme start="20201027194000 -0600" stop="20201027205000 -0600" channel="Canal TV Chile">
+    <title lang="es">Gente de la Tierra</title>
+  </programme>
+  <programme start="20201027205000 -0600" stop="20201027214500 -0600" channel="Canal TV Chile">
+    <title lang="es">La Chúcara</title>
+  </programme>
+  <programme start="20201027214500 -0600" stop="20201027223000 -0600" channel="Canal TV Chile">
+    <title lang="es">Aquí Mando Yo</title>
+  </programme>
+  <programme start="20201027223000 -0600" stop="20201027233000 -0600" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="Canal TV Chile">
+    <title lang="es">Medianoche</title>
+  </programme>
+</tv>
